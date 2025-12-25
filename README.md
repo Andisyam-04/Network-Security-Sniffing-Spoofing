@@ -6,11 +6,11 @@ Repository ini berisi laporan dan dokumentasi praktikum mata kuliah Advanced Net
 
 | Informasi | Detail |
 | :--- | :--- |
-| Nama | Eko Prasetyo Adi Nugroho |
-| NIM | 105841114223 |
+| Nama | Andi Syam Hasbullah  |
+| NIM | 105841114623 |
 | Kelas | 5 JK-A |
-| Peran | Client (Target 2) |
-| Anggota Tim | Rizky Adhitya (Attacker), Andi Syam Hasbullah (Server) |
+| Peran | Server (Target 1) |
+| Anggota Tim | Rizky Adhitya (Attacker), Eko Prasetyo Adi Nugroho (Client) |
 
 ## 🛠 Tools yang Digunakan
 * Kali Linux (OS Attacker, Server, & Client)
